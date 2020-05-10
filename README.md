@@ -1,2 +1,2 @@
 # Data-Scrapping
-A web scrapper to scrap the job postings from an employment website.
+parsing the job postings from an employment website and RSS feeds from a news website. 
